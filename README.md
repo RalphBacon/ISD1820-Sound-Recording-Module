@@ -14,7 +14,7 @@ In case you find your own voice a little boring, I also demonstrate how to captu
 LINKS
 -----
 
-Wagnificent Pet Care - special treats and more for your cat and dog. A free plug!
+Wagnificent Pet Care - special treats and more for your cat and dog. A free plug!  
 https://www.wagnificentpetcare.co.uk/shop  
 Run by my daughter Kirsty, assisted by Dougle & Benny
 
