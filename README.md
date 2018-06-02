@@ -15,7 +15,7 @@ LINKS
 -----
 
 Wagnificent Pet Care - special treats and more for your cat and dog. A free plug!  
-https://www.wagnificentpetcare.co.uk/shop  
+http://bit.ly/2Jo10wI  (links to `wagnificentpetcare.co.uk/shop`)
 Run by my daughter Kirsty, assisted by Dougle & Benny
 
 The module on eBay (UK but available generally everywhere)  
