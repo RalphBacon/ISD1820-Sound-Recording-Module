@@ -2,7 +2,7 @@
 Record 10 seconds of sound for Arduino, Raspberry Pi or other microcontrollers
 
 # See https://www.youtube.com/ralphbacon video # 113
-(Direct video link: https://youtu.be/F5mnObABhlo)
+(Direct video link: https://youtu.be/Tx_r6BW0RJM)
 
 This is a small, cheap but effective 10-second sound recording module, ideal for connecting to a µController to issue a simple announcement, warning or information statement.
 
